@@ -1,0 +1,17 @@
+.header{
+    background-color: black;
+    padding-left: 20px;
+}
+
+.title{
+    color: white;
+}
+
+.konten{
+    padding: 20px;
+    min-height: 500px;
+}
+
+.site-layout-background {
+    background: #fff;
+  }

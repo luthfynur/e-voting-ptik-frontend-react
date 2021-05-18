@@ -1,0 +1,25 @@
+.login{
+    padding-top: 90px;
+    background-color:whitesmoke;
+    padding-bottom: 300px;
+}
+
+.titel{
+    text-align: center;
+}
+
+.kartu{
+    margin-bottom: 20px;
+}
+
+.header{
+    background-color: green;
+    padding-left: 20px;
+    height: 80px;
+}
+
+.headerAdmin{
+    background-color:black;
+    padding-left: 20px;
+    height: 80px;
+}
