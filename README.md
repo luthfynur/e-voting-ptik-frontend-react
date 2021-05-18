@@ -1,3 +1,26 @@
+## e-voting-ptik-react
+A simple e-voting frontend application to elect one of two BEMP Pendidikan Teknik Informatika dan Komputer (PTIK) UNJ candidates.
+
+## Demo
+
+Here: [e-voting-ptik.herokuapp.com](https://e-voting-ptik.herokuapp.com)
+
+## Accounts
+
+**Admin:**
+
+username: admin2
+
+password: admin2ptik
+
+
+**User(Mahasiswa):**
+
+You can create user account on admin's dashboard
+
+
+##
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
