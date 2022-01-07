@@ -1,10 +1,6 @@
 ## e-voting-ptik-react
 A simple e-voting frontend application to elect one of two BEMP Pendidikan Teknik Informatika dan Komputer (PTIK) UNJ candidates.
 
-## Demo
-
-Here: [e-voting-ptik.herokuapp.com](https://e-voting-ptik.herokuapp.com)
-
 ## Accounts
 
 **Admin:**
